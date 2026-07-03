@@ -5,9 +5,9 @@ I am proficient in Java, HTML, CSS, JavaScript, and I'm in the process of learni
 I do fun projects with my knowledge and try to make cool stuff out of it. <br>
 Some include websites, program code, design, etc<br>
 My goal is to gain knowledge continuously and to have fun in the process, so if you wanna join in or could need my help, hit me up<br> 
-[TikTok](https://www.tiktok.com/@thand0.26?_t=ZM-8wFRcCKXQ3h&_r=1)<br>
-[Instagram](https://www.instagram.com/thand0.26?igsh=MXRzYmE3Z3UwcHZwdg==)<br>
-.[Web](https://thandodev.netlify.app/)
+[TikTok](https://www.tiktok.com/@thand0.26)<br>
+[LinkedIn](https://www.linkedin.com/in/thand0/)<br>
+[Web](https://thandodev.netlify.app/)
 
 
 # 💻 Tech Stack:
